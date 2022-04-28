@@ -9,3 +9,5 @@
 
 
 - [ ] Make css
+- [ ] Make custom chrome protocol
+- [ ] Add a login system for index.html
