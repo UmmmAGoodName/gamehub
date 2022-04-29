@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/UmmmAGoodName/gamehub)
 ![GitHub Repo stars](https://img.shields.io/github/stars/UmmmAGoodName/gamehub?style=plastic)
 
-
+[GameHub's Api](https://github.com/gamehub-project/gamehub-api)
 
 - [ ] Make css
 - [ ] Make custom chrome protocol
