@@ -11,3 +11,5 @@
 - [ ] Make css
 - [ ] Make custom chrome protocol
 - [ ] Add a login system for index.html
+- [ ] Create login/signup site + css
+- [ ] Add footer
