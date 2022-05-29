@@ -1,3 +1,7 @@
+<?php
+
+ ?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <link rel="shortcut icon" href="/included/grafik/favicon.png">
@@ -20,7 +24,7 @@
     <img src="/included/grafik/banner_img_1.png" alt="Test" width="1500" height="1000">
     <include src="/included/assets/footer.html"></include>
     <footer>
-      <a href="https://google.com/">hey</a>
+      <a href="/dash/admin.php">Admin</a>
     </footer>
   </body>
 </html>
