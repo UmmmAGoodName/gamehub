@@ -42,3 +42,9 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+footer {
+  background-color: #3c3c3c;
+  color: white;
+  text-align: left;
+}

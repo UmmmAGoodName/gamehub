@@ -1,0 +1,23 @@
+<?php
+
+ ?>
+
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <link rel="stylesheet" href="/included/css/admin/index.css">
+ </head>
+ <body>
+
+ <h2>Vertical Navigation Bar</h2>
+ <p>In this example, we create an "active" class with a green background color and a white text. The class is added to the "Home" link.</p>
+
+ <ul>
+   <li><a class="active" href="#home">Home</a></li>
+   <li><a href="#news">News</a></li>
+   <li><a href="#contact">Contact</a></li>
+   <li><a href="#about">About</a></li>
+ </ul>
+
+ </body>
+ </html>
