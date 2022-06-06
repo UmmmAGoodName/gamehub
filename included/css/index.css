@@ -1,11 +1,12 @@
 body {
-  background-color: #3c3c3c;
+  background-color: #2E3047;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
-  color: white;
+  color: #3BBA9C;
   text-align: center;
-  text-shadow: 2px 2px blue;
 }
 
 h2 {
@@ -23,7 +24,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #43455c;
 }
 
 li {
@@ -44,7 +45,12 @@ li a:hover {
 }
 
 footer {
-  background-color: #3c3c3c;
+  background-color: #3c3f58;
   color: white;
   text-align: left;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
 }
