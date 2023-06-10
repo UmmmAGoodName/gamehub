@@ -1,3 +1,8 @@
+<?php 
+require(realpath($_SERVER["DOCUMENT_ROOT"])."/include/php/core.php");
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
